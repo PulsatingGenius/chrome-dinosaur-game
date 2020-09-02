@@ -1,0 +1,19 @@
+# Hardware components
+
+Arduino MKR Zero
+-You can use any board that can be used as a keyboard (Leonardo, Esplora, Zero, Due and MKR Family)	
+
+Breadboard (generic)
+	
+Force Sensing Resistor
+
+Stretch Sensor (Conductive Rubber Cord)
+
+Resistor 10k ohm
+
+Jumper wires (generic)
+
+And arduino IDE
+Which you can download from the link below
+
+https://www.arduino.cc/en/main/software
